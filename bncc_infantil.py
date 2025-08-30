@@ -1,4 +1,3 @@
-# bncc_infantil.py
 INFANTIL_DB = {
     "Bebês (zero a 1 ano e 6 meses)": {
         "O eu, o outro e o nós": [
