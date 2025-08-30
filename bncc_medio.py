@@ -1,4 +1,3 @@
-# bncc_medio.py
 # Versão FINAL e DEFINITIVA com TODAS as competências e as 30 habilidades validadas para a área de Linguagens,
 # além da lista completa para as outras áreas.
 
