@@ -1,4 +1,3 @@
-# bncc_fundamental.py
 FUNDAMENTAL_DB = {
     "1º Ano": {
         "Língua Portuguesa": [{"codigo": "EF15LP01", "descricao": "Identificar a função social de textos que circulam em campo da vida social dos quais participa cotidianamente (a casa, a rua, a comunidade, a escola) e nas mídias impressa, de massa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam."}, {"codigo": "EF01LP07", "descricao": "Identificar fonemas e sua representação por letras."}, {"codigo": "EF01LP10", "descricao": "Nomear as letras do alfabeto e recitá-lo na ordem das letras."}],
